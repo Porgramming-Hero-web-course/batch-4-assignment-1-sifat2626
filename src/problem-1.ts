@@ -5,5 +5,5 @@
     }, 0)
   }
 
-  console.log(sumArray([5, 9, 8]))
+  console.log(sumArray([5, 9, 8, 7]))
 }
